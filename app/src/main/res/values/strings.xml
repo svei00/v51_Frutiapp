@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frutiapp</string>
+    <string name="cdPersonaje">Personaje</string>
+    <string name="txtNombre">¿Cuál es tu Nombre?</string>
+    <string name="btnPlay">Jugar</string>
+
+    <string name="txtChance">Oportunidades: </string>
+    <string name="txtName">Jugador: </string>
+    <string name="txtScore">Puntaje: 0</string>
+    <string name="btnAnswer">Responder</string>
+    <string name="txtAnswer">Respuesta</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main_activity2_level1.xml" value="0.176" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main_activity2_lvl1.xml" value="0.152" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main_activity2_lvl2.xml" value="0.264" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main_activity2_lvl3.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main_activity2_lvl4.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main_activity2_lvl5.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main_activity2_lvl6.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout-land/activity_main_activity2_lvl7.xml" value="0.2009009009009009" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main_activity2_level1.xml" value="0.264" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main_activity2_lvl1.xml" value="0.264" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main_activity2_lvl2.xml" value="0.1234375" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main_activity2_lvl3.xml" value="0.1234375" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main_activity2_lvl4.xml" value="0.1234375" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main_activity2_lvl5.xml" value="0.1234375" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main_activity2_lvl6.xml" value="0.25" />
+        <entry key="..\:/Users/cursos/AndroidStudioProjects/v51_Frutiapp/app/src/main/res/layout/activity_main_activity2_lvl7.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
